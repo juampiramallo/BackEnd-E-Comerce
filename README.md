@@ -11,6 +11,4 @@ Este repositorio contiene el backend para la aplicación de ecommerce, diseñado
 - **PostgreSQL**: Sistema de gestión de bases de datos relacional.
 - **TypeORM**: ORM para TypeScript y JavaScript que permite interactuar con bases de datos.
 - **JWT (JSON Web Token)**: Autenticación basada en tokens.
-- **Nodemailer**: Envío de correos electrónicos.
-- **MercadoPago**: Integración de pagos.
 - **Swagger**: Documentación de la API.
